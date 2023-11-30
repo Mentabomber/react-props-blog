@@ -1,0 +1,7 @@
+.footer {
+  @apply text-white py-4 border-b bg-[rgb(51,51,51)] border-gray-500 text-center;
+}
+
+.paragraph{
+  @apply w-[1000px] m-auto;
+}
